@@ -8,7 +8,7 @@ feature:
 ktor_version_review: 1.2.0
 ---
 
-This feature allows to processes the plain text content in request and response: fills `Accept` header with registered charsets, encode request body and decode response body according to `ContentType` charset.
+This feature allows to process the plain text content in request and response: fills `Accept` header with registered charsets, encode request body and decode response body according to `ContentType` charset.
 
 {% include feature.html %}
 
